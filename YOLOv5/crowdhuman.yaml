@@ -1,0 +1,9 @@
+train: ../crowdhuman/images/train2017/
+val: ../crowdhuman/images/train2017/
+#test: test.txt
+
+#number of classes
+nc: 2
+
+# class names
+names: ['person', 'head']
