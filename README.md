@@ -8,3 +8,6 @@ COCO格式转YOLOv5格式
 
 ## look_up_anchor.py
 查看anchor的数值是多少
+
+## voc2yolo.py
+VOC格式转YOLOv5格式
