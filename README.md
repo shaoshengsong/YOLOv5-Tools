@@ -16,3 +16,7 @@ VOC格式转YOLOv5格式
 根据检测框和GT boxes输出混淆矩阵（TP，FN，FP，TN）据此可以计算模型指标
 实现文件general.py
 使用方法confusion_matrix_test.py
+
+
+## widerface2yolo.py
+widerface人脸数据集转yolov5格式
